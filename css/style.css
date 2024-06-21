@@ -27,3 +27,7 @@ img {
 .text-justify {
   text-align: justify;
 }
+
+#contact {
+  background: url(../img/map.jpg);
+}
